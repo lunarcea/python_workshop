@@ -26,3 +26,4 @@ A comprehensive **12-week Python programming course** covering fundamentals thro
 - **Week 7:** Python Libraries & Introduction to Pandas  
 - **Week 8:** Data Visualization Techniques  
 - **Week 9:** Web Scr
+- **Week 10:** Text Analysis
